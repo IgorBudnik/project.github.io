@@ -158,7 +158,7 @@ root.render(
       <Routes>
       <Route path ="/people" element={<Dogs list = {people}/>} />
       <Route path ="/timelines" element={<Time />} />
-      <Route path ="/" element={<Clock/>} />
+      <Route path ="/project" element={<Clock/>} />
       </Routes>
       </BrowserRouter>
       {/* {/* <Clock/> */}
