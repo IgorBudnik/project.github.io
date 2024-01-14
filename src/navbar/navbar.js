@@ -7,7 +7,7 @@ const Navbar = () =>{
   return (
   <div className='navbar'>
 
-      <Link className='inner' to='/'><span className='inner_text'>Карта</span>
+      <Link className='inner' to='/project'><span className='inner_text'>Карта</span>
         </Link>
 
 
